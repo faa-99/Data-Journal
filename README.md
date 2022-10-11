@@ -11,7 +11,7 @@ It will be populated on the go...
 I will be covering topics related to:
 * Probability
 * Statistics
-* Foundations of Machine Learning
+* Machine Learning
 * Data Visualization
 * Data Mining
 * Big Data
@@ -21,4 +21,4 @@ I will also include sample datasets and code snippets to help understand concept
 Code will be in either R or python, and several libraries will be covered and used such as:
 
 - Python: pandas, numpy, matplotlib, seaborn, scikit-learn, keras
-- R: ggplot, dplyr
+- R: ggplot, dplyr, prob, crayon
