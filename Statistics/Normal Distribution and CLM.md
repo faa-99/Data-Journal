@@ -55,19 +55,24 @@ standard deviations above the mean. The three standard deviation rule implies th
 We would like to estimate the mean age of employees at company A. Let’s assume that the population is made up of only 50 individuals and the actual mean of the population is 45.28 years.
 
 Assume we take two random samples of size 5. The resulting ages in each of the two samples:
+
 Sample 1: 20,44,46,20,44
+
 Sample 2: 83,32,31,50,32
+
 The first sample has a sample mean of 34.6 and a sample median of 44.
 The second sample has a sample mean of 45.6 and a sample median of 32.
 
 Neither the sample mean nor the sample median will always fall closer to the population mean in a given sample.
+
 To evaluate each of these sample statistics and their ability to estimate the true population value, we must not rely on just one example (one sample).
+
 We’d like to compare the distribution of the sample mean and sample median if we take hundreds of random samples of the same size.
 
 The **larger the sample size**:
 
 1. the closer the sampling distribution of the sample means will be to the
-normal distribution and
+normal distribution
 2. the smaller the variance of the sample mean.
 
 This means that just based on a single sample we can make conclusions about what the population mean is likely to be. Specifically, it will allow us to calculate **p-values and confidence intervals**
