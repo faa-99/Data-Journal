@@ -22,7 +22,7 @@ Fundamental Elements of Statistics:
 - **A parameter:** a number that describes a population
 - **A statistic:** a number that is computed from the sample data
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/statistic-terms.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/statistic-terms.png)
 
 - Biases: introduced by sampling are often termed selection biases
     - To avoid them, sample randomly!
@@ -93,7 +93,7 @@ range <- max(values) - min(values)
 
 ### Standard Deviation and Variance
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/st-dev.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/st-dev.png)
 
 The st. deviation is the square root of the variance.
 
@@ -143,7 +143,7 @@ summary <- summary(values)
 quantiles <- quantile(values)
 ```
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/quantiles.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/quantiles.png)
 
 ## Shape of Data
 
@@ -155,7 +155,7 @@ If most of the values are in the upper portion of the distribution, the distribu
 
 On the other hand, if most of the values are in the lower end of the distribution, the distribution is right-skewed. The presence of fewer numbers of larger value pulls the mean towards the right end of the data. The mean is greater than the median in this case.
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/left-skew.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/left-skew.png)
 
 The distance (range) from the minimum value to the median is less than the distance from the median to the maximum value.
 
@@ -163,7 +163,7 @@ The distance (range) from the minimum value to the first quartile (Q1 ) is less 
 
 The distance (range) from the minimum value to the median is greater than the distance from the median to the maximum value.
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/right-skew.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/right-skew.png)
 
 The distance (range) from the first quartile (Q1 ) to the median is less than the distance from the median to the third quartile (Q3 ).
 
@@ -172,7 +172,7 @@ The distance (range) from the minimum value to the first quartile (Q1 ) is great
 The distance (range) from the first quartile (Q1 ) to the median is greater than the distance from the
 median to the third quartile (Q3 ).
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/symmetric.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/symmetric.png)
 
 ### Notes:
 

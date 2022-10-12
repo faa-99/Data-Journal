@@ -4,7 +4,7 @@ The normal density curve seems to fit the data well. It is an ”idealized” ma
 
 Many statistical inference procedures are based on the normal distribution.
 
-![Normal DIstribution](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/normal-distribution.png)
+![Normal DIstribution](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/normal-distribution.png)
 
 ## Properties
 
@@ -18,7 +18,7 @@ under the bell shaped curve in half.
 
 The normal distribution with mean µ and variance σ 2 is often referred to as N (µ, σ^2 )
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/nd-variation.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/nd-variation.png)
 
 ## Standard Normal Distribution
 
@@ -33,11 +33,11 @@ Z-score tells us how many standard deviations x is from the mean
 - The standard normal curve is centered on 0.
 - The probability that z ≥ a is equal to the probability that z > a. There is no area under the curve for a single point. Similarly, the probability that z ≤ a is equal to the probability that z < a.
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/nd-properties.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/nd-properties.png)
 
 A standardized variable has a mean of 0 and a standard deviation of 1. For any given variable x , the standardized version of x is the new variable, z, defined as
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/sampling-distribution.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/sampling-distribution.png)
 
 Outliers are data points that do not fit with the general pattern of the data.
 They can be detected using graphical summaries.
@@ -87,9 +87,9 @@ n should be **n ≥ 30 for the distribution of the sample means to be normally d
 
 For more skewed population distributions, n must be larger before the sampling distribution is sufficiently normally distributed.
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/z-score.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/z-score.png)
 
 If n ≥ 30 we know that the sample mean is approximately normally distributed
 with Standard Error(SE).
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/tree/main/Statistics/images/clm.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/clm.png)
