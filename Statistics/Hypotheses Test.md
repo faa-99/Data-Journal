@@ -193,18 +193,9 @@ The confidence interval for the difference in population means is:
 
 **Skewness:** It is essential to check the distribution of your sample data and check for strong skewness and outliers before you use t-procedures. If strong skewness exists or there are outliers present, use of the t-procedures is not recommended (especially when using these procedures when n < 30).
 
-### Power of a Satistical Test
+### Errors of a Satistical Test
 
 In any statistical test, there are two possible errors that can be made.
 **A Type 1 Error** is when the null hypothesis is actually true, but it is rejected. This is also called a False Positive.
+
 **A Type 2 Error** is when the null hypothesis should be rejected, but we fail to reject. This is also called a False Negative.
-
-How often do Type 2 Errors happen? This is trickier, and depends upon the power of the test. Power is the probability of rejecting the null when the null is false. For mean estimation, this depends on:
-
-▷ The sample size
-▷ The difference between the true mean and the null mean (effect size)
-▷ The variability of the population distribution
-▷ Power changes depending upon how well assumptions of the test are met
-
-Often, researchers will use a power calculation to determine how many participants are needed to achieve some predefined power threshold (80% is typical).
-Other times, you have a predetermined number of participants (a convenience sample), and you can use a power curve to determine what effect sizes you are likely to be able to detect.
