@@ -165,23 +165,19 @@ We are interested in estimating µ1 − µ2 or testing the null hypothesis of no
 
 The standard deviation of the difference in the sample means, x̄1 − x̄2 , is :
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b771cf2-930c-41e5-a767-091bb00bc96a/Untitled.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/st-dev-pop.png)
 
 Give that σ1 and σ2 are generally unknown, we estimate by using the sample standard deviations:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0421f8f1-3fd8-45fa-8c1f-231b94a8a488/Untitled.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/st-dev-sample.png)
 
 ***The above quantity is referred to as the Standard Error of the difference in sample means.***
 
 The two sample t-statistic used for hypothesis testing is calculated by:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b725a072-556f-4fdf-a7bf-3c9ce3b97eab/Untitled.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/t-value-2-sample.png)
 
 for µ1 − µ2 = 0
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/961dd215-6d73-4f62-a474-50b4405362cf/Untitled.png)
-
-for µ1 − µ2 = d
 
 degrees of freedom by taking the minimum of the quantities n1 − 1 and n2 − 1
 
@@ -189,7 +185,7 @@ degrees of freedom by taking the minimum of the quantities n1 − 1 and n2 − 1
 
 The confidence interval for the difference in population means is:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e86d0b8b-8267-4365-a88b-97f2ef9f1179/Untitled.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/Statistics/images/conf-interval-2-sample.png)
 
 ### When t-test is not applicable
 
@@ -212,5 +208,3 @@ How often do Type 2 Errors happen? This is trickier, and depends upon the power 
 
 Often, researchers will use a power calculation to determine how many participants are needed to achieve some predefined power threshold (80% is typical).
 Other times, you have a predetermined number of participants (a convenience sample), and you can use a power curve to determine what effect sizes you are likely to be able to detect.
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e937709c-55e0-44b8-a498-438300d01c86/Untitled.png)
