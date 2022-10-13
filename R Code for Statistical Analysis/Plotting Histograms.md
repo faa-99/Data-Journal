@@ -1,5 +1,4 @@
 ```r
-### Advanced Histograms #### 
 
 # There a lots of good data sets available in R. 
 # You can get a list of them by using command data()
@@ -82,7 +81,7 @@ ggplot(data=df,aes(x=N)) +
 
 
 ```r
-# we use beta distribution to generate skewed data 
+# generate skewed data using beta distribution
 
 # set the random initial start as constant value 
 set.seed(1)
@@ -106,8 +105,6 @@ hist(leftSkewed,
      main='Left Skewed' , border = F)
 
 lines(density(leftSkewed,bw=1), col='red', lwd=3)
-
-# plot(density(leftSkewed), main='Left Skewed' , col='red', lwd=3, type="l")
 
 abline(v=mean(leftSkewed), col='blue', lwd=3)
 abline(v=median(leftSkewed), col='green', lwd=3)
