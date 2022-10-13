@@ -196,6 +196,7 @@ The confidence interval for the difference in population means is:
 ### Errors of a Satistical Test
 
 In any statistical test, there are two possible errors that can be made.
+
 **A Type 1 Error** is when the null hypothesis is actually true, but it is rejected. This is also called a False Positive.
 
 **A Type 2 Error** is when the null hypothesis should be rejected, but we fail to reject. This is also called a False Negative.
