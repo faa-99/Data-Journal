@@ -107,7 +107,7 @@ age
 
 Consider the following data
 
-![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/R Code for Statistical Analysis/images/golf-data.png)
+![Untitled](https://github.com/faa-99/My-Data-Journey/blob/main/R%20Code%20for%20Statistical%20Analysis/images/golf-data.png)
 
 ```r
 # Class counts
