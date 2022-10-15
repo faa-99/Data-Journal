@@ -1,4 +1,4 @@
-# My Data Journey
+# Data Journal
 
 This repository contains explanations and concepts related to data, how to summarize it, process it, understand it and build useful applications.
 
